@@ -1,6 +1,6 @@
 # GNR-650
 
-Assignment 1:
+Assignment 1:  1_Resnet18_overfit.ipynb
 
 Took 100 images per samples of cifar-10 dataset.
 
