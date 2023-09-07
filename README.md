@@ -19,4 +19,4 @@
 - Additional : Visualize the Feature map of horse image at different layers
 
 
-## Assignment 2: Go to Assignment 2 Folder ReadMe
+## Assignment 2: Go to Assignment 2 Folder
