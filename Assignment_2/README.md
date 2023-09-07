@@ -46,7 +46,7 @@ This repository contains code and notebooks for different fine-tuning methods of
 - Initially lower performance but gradually improved.
 - Requires more training time.
 
-### Visulization Comparision:
+### Visualization Comparision:
 
 - Last layer fine-tuning and no fine-tuning exhibit similar attention maps across all transformer layers in the model. This is because we freeze all the transformer layers while fine-tuning.
 - Across all models, the initial layers of the transformer consistently show better attention map visualizations. This suggests that these layers focus on capturing low-level and fundamental features in the images, which are essential for understanding the dataset.
