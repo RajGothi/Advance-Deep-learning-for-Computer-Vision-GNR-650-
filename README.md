@@ -26,16 +26,16 @@ This repository contains code and notebooks for different fine-tuning methods of
 
 ## Fine-Tuning Notebooks
 
-1. [2_ViT_B12_Last_Layer_FT.ipynb](2_ViT_B12_Last_Layer_FT.ipynb)
+1. [2_ViT_B12_Last_Layer_FT.ipynb](Assignment2/2_ViT_B12_Last_Layer_FT.ipynb)
    - Fine-tunes the last fully connected layer of the ViT model.
 
-2. [2_ViT_B12_Bottom_Layer_FT.ipynb](2_ViT_B12_Bottom_Layer_FT.ipynb)
+2. [2_ViT_B12_Bottom_Layer_FT.ipynb](Assignment2/2_ViT_B12_Bottom_Layer_FT.ipynb)
    - Fine-tunes only the 8th to 11th transformer layers and the fully connected layer.
 
-3. [2_ViT_B12_Full_Fine_tune.ipynb](2_ViT_B12_Full_Fine_tune.ipynb)
+3. [2_ViT_B12_Full_Fine_tune.ipynb](Assignment2/2_ViT_B12_Full_Fine_tune.ipynb)
    - Fine-tunes all layers of the ViT model.
 
-4. [2_ViT_B12_No_Fine_Tune.ipynb](2_ViT_B12_No_Fine_Tune.ipynb)
+4. [2_ViT_B12_No_Fine_Tune.ipynb](Assignment2/2_ViT_B12_No_Fine_Tune.ipynb)
    - Does not perform fine-tuning on the ViT model.
 
 ## Visualization
