@@ -32,3 +32,16 @@ This repository contains code and notebooks for different fine-tuning methods of
 | All Layer Fine-Tune ViT       | 91.48%         | 91.85%               | 90.74%        |
 | Do Not Fine-Tune ViT         | 13.55%         | 15.22%               | 13.92%        |
 
+## Observations
+
+### Last Layer Fine-Tuning:
+- Achieved a high validation accuracy of 95.96% quickly.
+- Efficient and competitive performance.
+
+### Bottom Layer Fine-Tuning:
+- Outperformed last layer fine-tuning with a validation accuracy of 97.33%.
+- Captured complex features effectively.
+
+### All Layer Fine-Tuning:
+- Initially lower performance but gradually improved.
+- Requires more training time.
