@@ -76,3 +76,7 @@ This repository contains code and notebooks for different fine-tuning methods of
 - Across all models, the initial layers of the transformer consistently show better attention map visualizations. This suggests that these layers focus on capturing low-level and fundamental features in the images, which are essential for understanding the dataset.
 - The attention map visualizations in the all layer fine-tuning case are not as informative compared to the others, as this strategy requires more training epochs.
 
+
+# Paper Review 1:
+[ViViT: A Video Vision Transformer Paper Review](GNR_650__Paper_Review_1.pdf)
+https://arxiv.org/abs/2103.15691
