@@ -40,7 +40,7 @@ This repository contains code and notebooks for different fine-tuning methods of
 
 ## Visualization
 
-5. [Visualization.ipynb](Assignment_2Visualization.ipynb)
+5. [Visualization.ipynb](Assignment_2/Visualization.ipynb)
    - Visualizes attention maps for different labels and models.
 
 ## Model Performance
