@@ -78,6 +78,7 @@ This repository contains code and notebooks for different fine-tuning methods of
 
 
 # Paper Review 1:
+
 [Paper: ViViT: A Video Vision Transformer Paper Review](GNR_650__Paper_Review_1.pdf)
 
-- [Paper Link](https://arxiv.org/abs/2103.15691)
+[Paper Link](https://arxiv.org/abs/2103.15691)
