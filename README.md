@@ -19,7 +19,7 @@
 - Additional : Visualize the Feature map of horse image at different layers
 
 
-## Assignment 2 (EuroSAT Fine-Tuning and Visualization)
+## Assignment 2 (Vision Transformer Fine-Tuning and Feature map Visualization)
 : Go to Assignment 2 Folder
 
 This repository contains code and notebooks for different fine-tuning methods of the Vision Transformer (ViT) model on the EuroSAT dataset, along with visualization of attention maps.
