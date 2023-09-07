@@ -45,3 +45,9 @@ This repository contains code and notebooks for different fine-tuning methods of
 ### All Layer Fine-Tuning:
 - Initially lower performance but gradually improved.
 - Requires more training time.
+
+### Visulization Comparision:
+
+- Last layer fine-tuning and no fine-tuning exhibit similar attention maps across all transformer layers in the model. This is because we freeze all the transformer layers while fine-tuning.
+- Across all models, the initial layers of the transformer consistently show better attention map visualizations. This suggests that these layers focus on capturing low-level and fundamental features in the images, which are essential for understanding the dataset.
+- The attention map visualizations in the all layer fine-tuning case are not as informative compared to the others, as this strategy requires more training epochs.
