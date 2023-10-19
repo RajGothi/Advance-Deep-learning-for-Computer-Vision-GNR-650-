@@ -76,6 +76,10 @@ This repository contains code and notebooks for different fine-tuning methods of
 - Across all models, the initial layers of the transformer consistently show better attention map visualizations. This suggests that these layers focus on capturing low-level and fundamental features in the images, which are essential for understanding the dataset.
 - The attention map visualizations in the all layer fine-tuning case are not as informative compared to the others, as this strategy requires more training epochs.
 
+## Assignment 2 (Vision Transformer Fine-Tuning and Feature map Visualization)
+Go to Assigment 3 folder
+
+
 
 # Paper Review 1:
 
