@@ -8,10 +8,10 @@ paper-review-2 to be done..
 
 ## Self-Supervised Techniques:
 
-1. [Jigsaw_pretext_CIFAR10.ipynb](Assignment_3/Jigsaw_pretext_CIFAR10.ipynb)
+1. [Jigsaw_pretext_CIFAR10.ipynb](Jigsaw_pretext_CIFAR10.ipynb)
    - Learn image feature representation through solving Jigsaw puzzle of jumbled patches of images.
    
-2. [Patch_Prediction_CIFAR10.ipynb](Assignment_3/Patch_Prediction_CIFAR10.ipynb)
+2. [Patch_Prediction_CIFAR10.ipynb](Patch_Prediction_CIFAR10.ipynb)
    - Learn image feature representation via finding the relative patch location of patches of images.
      
 ## Model Performance
