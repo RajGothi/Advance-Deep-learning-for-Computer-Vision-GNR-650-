@@ -18,7 +18,7 @@ paper-review-2 to be done..
 
 | Model                    | Validation Accuracy | Test Accuracy |
 |--------------------------|----------------------|---------------|
-| Jigsaw SSL |  96.48%               |         |
+| Jigsaw SSL |                 |         |
 | Jigsaw SSL - Downstream Task                   |         |
 | Relative patch location SSL                       |         |
 | Relative patch location SSL - Downsteam Task                          |        |
