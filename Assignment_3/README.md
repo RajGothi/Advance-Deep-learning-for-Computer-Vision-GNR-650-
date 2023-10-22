@@ -12,7 +12,7 @@ Patch prediction to be done -- Downstream task is remaining.
    [Jigsaw_inference.ipynb](Jigsaw_inference.ipynb)
    - Jigsaw SSL Inference on Test dataset
    
-3. [Patch_inference.ipynb](Patch_Prediction_CIFAR10.ipynb)
+3. [Patch_Prediction_CIFAR10.ipynb](Patch_Prediction_CIFAR10.ipynb)
    - Learn image feature representation via finding the relative patch location of patches of images.
      
 ## Model Performance
