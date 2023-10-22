@@ -17,7 +17,7 @@ Patch prediction to be done -- Downstream task is remaining.
 | Model                    | Validation Accuracy | Test Accuracy |
 |--------------------------|----------------------|---------------|
 | Jigsaw SSL |       95%          |         |   95%
-| Jigsaw SSL - Downstream Classification Task                67%    |    67%     |
+| Jigsaw SSL - Downstream Classification Task                 |    67%     |   67% 
 | Relative patch location SSL                       |         |
 | Relative patch location SSL - Downsteam Classification Task                          |        |
 
