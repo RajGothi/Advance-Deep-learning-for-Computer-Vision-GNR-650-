@@ -90,6 +90,7 @@ Go to Assigment 3 folder
 
 # Paper Review 2:
 [Paper:Universal Domain Adaptation through Self-Supervision](GNR_650__Paper_Review_2.pdf)
+
 [Paper Link](https://proceedings.neurips.cc/paper/2020/file/bb7946e7d85c81a9e69fee1cea4a087c-Paper.pdf)
 
 # Project Title:
