@@ -3,8 +3,6 @@ Working on Assignment-3
 
 Jigsaw done..
 Patch prediction to be done -- Downstream task is remaining.
-paper-review-2 to be done..
-
 
 ## Self-Supervised Techniques:
 
