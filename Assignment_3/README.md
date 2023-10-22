@@ -8,8 +8,11 @@ Patch prediction to be done -- Downstream task is remaining.
 
 1. [Jigsaw_pretext_CIFAR10.ipynb](Jigsaw_pretext_CIFAR10.ipynb)
    - Learn image feature representation through solving Jigsaw puzzle of jumbled patches of images.
+
+   [Jigsaw_inference.ipynb.ipynb](Jigsaw_inference.ipynb)
+   - Jigsaw SSL Inference on Test dataset
    
-2. [Patch_Prediction_CIFAR10.ipynb](Patch_Prediction_CIFAR10.ipynb)
+3. [Patch_inference.ipynb](Patch_Prediction_CIFAR10.ipynb)
    - Learn image feature representation via finding the relative patch location of patches of images.
      
 ## Model Performance
