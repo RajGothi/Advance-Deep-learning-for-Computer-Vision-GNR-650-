@@ -21,6 +21,6 @@ Patch prediction to be done -- Downstream task is remaining.
 |--------------------------|----------------------|---------------|
 | Jigsaw SSL |       95%          |    95%     |   
 | Jigsaw SSL - Downstream Classification Task                 |    67%     |   67% 
-| Relative patch location SSL                       |         |
+| Relative patch location SSL                       |  97%       |    97%
 | Relative patch location SSL - Downsteam Classification Task                          |        |
 
