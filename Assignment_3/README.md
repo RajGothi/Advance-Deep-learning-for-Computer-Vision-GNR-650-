@@ -4,7 +4,7 @@
    - Learn image feature representation through solving Jigsaw puzzle of jumbled patches of images.
    - Defined Custom CNN model to handle 32 * 32 images.
    - Jigsaw creation
-      - Resize the given CIFAR-10 32*32 Image to 128 * 18 image shape.
+      - Resize the given CIFAR-10 32*32 Image to 128 * 128 image shape.
       - Do center crop with 105 * 105 image shape.
       - Divide the image into 3 * 3 image patch, where Each patch size is 32 * 32.
       - Pass all 9, 32 * 32 image to model and predict the permutation index.
