@@ -1,6 +1,6 @@
 # GNR-650
 
-## Assignment 1 (Overfit Resnet 18 model):  
+# Assignment 1 (Overfit Resnet 18 model):  
 
 [1_Resnet18_overfit.ipynb](1_Resnet18_overfit.ipynb):
 
@@ -21,7 +21,7 @@
 - Additional : Visualize the Feature map of horse image at different layers
 
 
-## Assignment 2 (Vision Transformer Fine-Tuning and Feature map Visualization)
+# Assignment 2 (Vision Transformer Fine-Tuning and Feature map Visualization)
 : Go to Assignment 2 Folder
 
 This repository contains code and notebooks for different fine-tuning methods of the Vision Transformer (ViT) model on the EuroSAT dataset, along with visualization of attention maps.
@@ -76,7 +76,7 @@ This repository contains code and notebooks for different fine-tuning methods of
 - Across all models, the initial layers of the transformer consistently show better attention map visualizations. This suggests that these layers focus on capturing low-level and fundamental features in the images, which are essential for understanding the dataset.
 - The attention map visualizations in the all layer fine-tuning case are not as informative compared to the others, as this strategy requires more training epochs.
 
-## Assignment 3 (Jigsaw and Patch prediction self-supervised(SSL) task)
+# Assignment 3 (Jigsaw and Patch prediction self-supervised(SSL) task)
 Go to Assigment 3 folder
 
 ## Self-Supervised Techniques:
