@@ -11,6 +11,7 @@
    - Permutation Creation:
       - Choose the 1000 permutation of value 9 such that hamming distance between choose permutation is greater than 0.9
    - Downstream task : Image Classification.
+   - GradCam Analysis
 
    [Jigsaw_inference.ipynb](Jigsaw_inference.ipynb)
    - Jigsaw SSL Inference on Test dataset
@@ -21,6 +22,8 @@
    - Resized the given Image to 96*96 shape and divide into 3*3 patches.
    - Pass the center patch and neighbour patch to the model and it will predict the relative patch position with respect to center position.
    - Downstream task : Image Classification.
+   - Inference on Test dataset.
+   - GradCam Analysis
 
      
 ## Model Performance
