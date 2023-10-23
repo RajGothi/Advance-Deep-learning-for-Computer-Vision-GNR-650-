@@ -77,7 +77,7 @@ This repository contains code and notebooks for different fine-tuning methods of
 - The attention map visualizations in the all layer fine-tuning case are not as informative compared to the others, as this strategy requires more training epochs.
 
 ## Assignment 3 (Jigsaw and Patch prediction self-supervised(SSL) task)
-:Go to Assigment 3 folder
+Go to Assigment 3 folder
 
 ## Self-Supervised Techniques:
 
