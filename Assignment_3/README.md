@@ -1,9 +1,3 @@
-This is not final version.
-Working on Assignment-3
-
-Jigsaw done..
-Patch prediction to be done -- Downstream task is remaining.
-
 ## Self-Supervised Techniques:
 
 1. [Jigsaw_pretext_CIFAR10.ipynb](Jigsaw_pretext_CIFAR10.ipynb)
