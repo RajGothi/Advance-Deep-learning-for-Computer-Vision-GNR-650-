@@ -14,7 +14,7 @@
    - GradCam Analysis
 
    [Jigsaw_inference.ipynb](Jigsaw_inference.ipynb)
-   - Jigsaw SSL Inference on Test dataset
+   - Jigsaw SSL and Downstream Task Inference on Test dataset
    
 3. [Patch_Prediction_CIFAR10.ipynb](Patch_Prediction_CIFAR10.ipynb)
    - Learn image feature representation via finding the relative patch location of patches of images.
