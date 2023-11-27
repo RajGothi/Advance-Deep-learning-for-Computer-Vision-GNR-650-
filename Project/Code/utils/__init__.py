@@ -1,1 +1,0 @@
-from .load_annotations import load_captions
