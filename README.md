@@ -133,4 +133,4 @@ Go to Assigment 3 folder
 [Paper Link](https://proceedings.neurips.cc/paper/2020/file/bb7946e7d85c81a9e69fee1cea4a087c-Paper.pdf)
 
 # Project Title:
-- Image to Text generation through few shot/zero shot learning
+- Visual Entities Empowered Zero-Shot Image-to-Text Generation Transfer Across Domains
